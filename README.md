@@ -4,7 +4,6 @@
 - 🌟 I'm passionate about combining the power of technology and art
 - 💜 The technologies I'm enjoy working with: Vue, NodeJS...
 - 🌱 I’m currently learning GraphQL, Nuxt...
-- 🎬 Movie fun
 - 💃 Kpop dancer
 - 🎮 Video game lover
 - 🍓 Whole foods diet
